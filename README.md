@@ -1,6 +1,6 @@
 # Hi there, I'm Lonwabo Nomatshila 👋
 
-🎓 **ICT (Applications Development) Student** at University of Mpumalanga (Graduating Nov 2026)  
+🎓 **ICT (Applications Development) Student** at University of Mpumalanga (Completed Nov 2026)  
 📱 **Software & Web Developer** specializing in Native Android Development and Enterprise Web Applications.  
 📍 **Location:** Benoni, South Africa  
 📧 **Contact:** [lololonwabo2006@gmail.com](mailto:lololonwabo2006@gmail.com)  
